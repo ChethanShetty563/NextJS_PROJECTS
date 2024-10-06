@@ -13,6 +13,7 @@ const iconMap = {
   invoices: InboxIcon,
 };
 import {  fetchCardData } from "@/app/lib/data";
+import React from 'react';
 
 
 export default async function CardWrapper() {
